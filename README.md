@@ -196,9 +196,5 @@ This project was built to practice:
 
 ---
 
-# Author
-
-Afrah Mohammed
-
-Software Engineering Student
+ 
 
