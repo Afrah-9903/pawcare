@@ -6,7 +6,7 @@
 
 June 2026
 
-### By
+### Author
 
 #### Afrah Mohammed [Instagram](https://www.instagram.com/_afrah_mohammed/)| [GitHub](https://github.com/Afrah) | [LinkedIn](<[www.linkedin.com/in/aboodisa](https://www.linkedin.com/in/afrah-mohd-6ab257276/)>)
 
@@ -14,15 +14,31 @@ June 2026
 
 # 📖 Project Overview
 
-PawCare is a full-stack Animal Care & Welfare Management Platform designed to help municipalities, NGOs, animal welfare organizations, veterinarians, shelters, and volunteers manage animal welfare activities in one centralized system.
+PawCare is a full-stack Animal Care & Welfare Management Platform designed to help municipalities, NGOs, veterinarians, animal shelters, and volunteers manage animal welfare operations from a single dashboard.
 
-The platform enables organizations to track animal registrations, vaccinations, sterilization programs, citizen complaints, rescue requests, shelter capacity, volunteer activities, and task progress.
+The system centralizes animal registration, vaccination tracking, sterilization programs, resident complaints, rescue requests, shelter capacity monitoring, volunteer activities, and task management.
 
-Built to practice modern full-stack development using React and Supabase.
+The goal is to improve transparency, coordination, and efficiency in animal welfare programs.
 
 ---
 
-# 🎯 MVP Features
+# 🎯 Problem Statement
+
+Animal welfare organizations often rely on spreadsheets, paper records, and disconnected systems to manage animal care activities.
+
+PawCare provides a centralized platform where organizations can:
+
+* Track animal welfare records
+* Monitor vaccination campaigns
+* Manage sterilization programs
+* Handle resident complaints
+* Coordinate rescue operations
+* Monitor shelter capacity
+* Track volunteer activities
+
+---
+
+# 🚀 MVP Features
 
 ## 🔐 Authentication
 
@@ -30,67 +46,212 @@ Built to practice modern full-stack development using React and Supabase.
 * User Login
 * User Logout
 * Protected Routes
-* Role-Based Access
+* Role-Based Access Control
+
+### Roles
+
+* Admin
+* Municipality Staff
+* Veterinarian
+* Volunteer
+* NGO Staff
+
+---
 
 ## 🐕 Animal Registry
 
-* Register Animals
-* View Animal Records
-* Edit Animal Information
+* Register Animal
+* Edit Animal Records
 * Upload Animal Photos
 * Track Animal Status
+* Search Animals
+* Filter Animals
 
-## 💉 Vaccination Tracking
+### Animal Status
+
+* Vaccinated
+* Sterilized
+* Under Observation
+* In Shelter
+* Released
+* Deceased
+
+---
+
+## 💉 Vaccination Management
 
 * Record Vaccinations
-* View Vaccination History
-* Vaccination Status Dashboard
+* Vaccination History
+* Vaccination Reports
+* Due Vaccination Tracking
+
+---
 
 ## 🏥 Sterilization Tracking
 
 * Record Sterilization Procedures
-* View Sterilization History
-* Monitor Sterilization Programs
+* Procedure History
+* Program Monitoring
 
-## 📝 Resident Complaints
+---
 
-- Submit Complaints
-- Upload Complaint Photos
-- Report Injured Animals
-- Report Aggressive Animals
-- Report Animal Abuse
-- Track Complaint Status
-- Assign Complaint to Teams
+## 📢 Resident Complaints
+
+Residents can report:
+
+* Injured Animals
+* Aggressive Animals
+* Animal Abuse
+* Dead Animals
+* Stray Animal Concerns
+
+### Complaint Features
+
+* Create Complaint
+* Upload Evidence Photos
+* Track Status
+* Assign Teams
+* Resolution Tracking
+
+---
 
 ## 🚑 Rescue & Pickup Requests
 
 * Create Pickup Requests
 * Assign Volunteers
-* Track Request Status
+* Assign Rescue Teams
+* Track Progress
+* Update Status
+
+---
 
 ## 🏠 Shelter Management
 
-* Monitor Shelter Capacity
-* Track Occupancy Levels
-* Shelter Statistics
+### Shelter Dashboard
+
+* Total Capacity
+* Current Occupancy
+* Available Spaces
+* Animal Distribution
+
+---
 
 ## 🤝 Volunteer Dashboard
 
-* View Assigned Tasks
-* Update Task Progress
+### Volunteer Features
+
+* Assigned Tasks
+* Completed Tasks
+* Active Requests
 * Activity Tracking
+
+---
 
 ## 📊 Admin Dashboard
 
-* Animal Statistics
-* Vaccination Reports
-* Complaint Analytics
-* User Management
+### Analytics
+
+* Animals Registered
+* Vaccination Statistics
+* Sterilization Statistics
+* Open Complaints
+* Active Rescue Requests
+* Shelter Occupancy
 * Volunteer Performance
 
 ---
 
-# 🛠 Technologies Used
+# 🖥️ Wireframes
+
+## Login Page
+
+(Add Image)
+
+## Dashboard
+
+(Add Image)
+
+## Animal Registry
+
+(Add Image)
+
+## Animal Profile
+
+(Add Image)
+
+## Resident Complaints
+
+(Add Image)
+
+## Rescue Requests
+
+(Add Image)
+
+## Volunteer Dashboard
+
+(Add Image)
+
+## Shelter Dashboard
+
+(Add Image)
+
+## Admin Dashboard
+
+(Add Image)
+
+---
+
+# 🗺️ ERD Diagram
+
+(Add ERD Image)
+
+---
+
+# 🗄️ Database Tables
+
+### profiles
+
+Stores system users and roles.
+
+### animals
+
+Stores animal records.
+
+### vaccinations
+
+Stores vaccination history.
+
+### sterilizations
+
+Stores sterilization records.
+
+### resident_complaints
+
+Stores resident complaints.
+
+### pickup_requests
+
+Stores rescue requests.
+
+### shelters
+
+Stores shelter information.
+
+### volunteers
+
+Stores volunteer records.
+
+### tasks
+
+Stores assigned activities.
+
+### task_updates
+
+Stores task progress updates.
+
+---
+
+# 🛠️ Technologies Used
 
 ## Frontend
 
@@ -107,87 +268,6 @@ Built to practice modern full-stack development using React and Supabase.
 ## Deployment
 
 * Vercel
-
----
-
-# 🗄 Database Design
-
-### profiles
-
-Stores user accounts and roles.
-
-### animals
-
-Stores animal information and welfare records.
-
-### vaccinations
-
-Stores vaccination history.
-
-### sterilizations
-
-Stores sterilization records.
-
-### complaints
-
-Stores citizen complaints.
-
-### pickup_requests
-
-Stores rescue and pickup requests.
-
-### shelters
-
-Stores shelter information and capacity.
-
-### volunteers
-
-Stores volunteer details.
-
-### tasks
-
-Stores assigned activities and progress.
-
----
-
-# 🎨 Wireframes
-
-
-## Login Page
-
-(Add image later)
-
-## Register Resident 
-
-<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/4f07b90d-a59d-45c0-a673-1bf076264459" />
-
-
-## Dashboard
-
-(Add image later)
-
-## Animal Registry
-
-(Add image later)
-
-## Complaint Management
-
-(Add image later)
-
-## Shelter Dashboard
-
-(Add image later)
-
-## Volunteer Dashboard
-
-(Add image later)
-
----
-
-# 🗺 ERD Diagram
-
- <img width="1536" height="1024" alt="PaWCareERD" src="https://github.com/user-attachments/assets/19b192dd-68ad-4152-8b99-98edbe1618f5" />
-
 
 ---
 
@@ -210,73 +290,42 @@ src/
 
 # 🎓 Learning Objectives
 
-This project is designed to practice:
+This project is being built to practice:
 
 * React Fundamentals
 * React Router
-* Supabase Authentication
+* Authentication
 * PostgreSQL Database Design
-* Table Relationships
 * CRUD Operations
-* File Uploads
 * Role-Based Access Control
 * Dashboard Development
+* File Uploads
+* Full Stack Application Architecture
 * Deployment
-
----
-
-# 🚀 Development Roadmap
-
-## Phase 1
-
-* Project Setup
-* Supabase Setup
-* Authentication
-* Database Design
-
-## Phase 2
-
-* Animal Registry
-* Vaccination Tracking
-* Sterilization Tracking
-
-## Phase 3
-
-* Complaints Management
-* Rescue Requests
-* Shelter Dashboard
-
-## Phase 4
-
-* Volunteer Dashboard
-* Admin Dashboard
-* Analytics
-
-## Phase 5
-
-* Testing
-* Deployment
-* Documentation
 
 ---
 
 # 🔮 Future Enhancements
 
-* Mobile Application
+### Phase 2
+
 * Interactive Maps
-* GPS Animal Tracking
-* SMS & Email Notifications
-* AI-Based Reporting
-* Vaccination Campaign Planning
+* Animal Location Tracking
+* Email Notifications
+* SMS Notifications
+
+### Phase 3
+
+* Mobile Application
+* QR Code Animal Identification
+* AI Analytics
 * Multi-City Support
 
 ---
 
-# 👩‍💻 Author
-
-Afrah Mohammed
-
- 
+### Progress
+https://trello.com/b/wLGJGinO/pawcare Trello
 
  
 
+ 
