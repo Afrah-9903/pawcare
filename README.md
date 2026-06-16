@@ -324,7 +324,7 @@ This project is being built to practice:
 ---
 
 ### Progress
-https://trello.com/b/wLGJGinO/pawcare Trello
+ <a href = "https://trello.com/b/wLGJGinO/pawcare"> Trello </a>
 
  
 
