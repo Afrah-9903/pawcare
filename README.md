@@ -152,9 +152,15 @@ Stores assigned activities and progress.
 
 # 🎨 Wireframes
 
+
 ## Login Page
 
 (Add image later)
+
+## Register Resident 
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/4f07b90d-a59d-45c0-a673-1bf076264459" />
+
 
 ## Dashboard
 
@@ -180,7 +186,8 @@ Stores assigned activities and progress.
 
 # 🗺 ERD Diagram
 
-(Add ERD image here)
+ <img width="1536" height="1024" alt="PaWCareERD" src="https://github.com/user-attachments/assets/19b192dd-68ad-4152-8b99-98edbe1618f5" />
+
 
 ---
 
