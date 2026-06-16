@@ -8,7 +8,7 @@ June 2026
 
 Afrah Mohammed
 
-GitHub | LinkedIn
+#### Afrah Mohammed [Instagram](https://www.instagram.com/_afrah_mohammed/)| [GitHub](https://github.com/Afrah) | [LinkedIn](<[www.linkedin.com/in/aboodisa](https://www.linkedin.com/in/afrah-mohd-6ab257276/)>)
 
 ---
 
@@ -94,7 +94,8 @@ The platform allows users to create pet profiles, upload pet images, book appoin
 
 # ERD Diagram
 
-(Add ERD image later)
+ <img width="1536" height="1024" alt="pawCare" src="https://github.com/user-attachments/assets/6b4a607b-97ea-4638-ac9f-f66e42b23e12" />
+
 
 ---
 
