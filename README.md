@@ -52,11 +52,15 @@ Built to practice modern full-stack development using React and Supabase.
 * View Sterilization History
 * Monitor Sterilization Programs
 
-## 📢 Citizen Complaints
+## 📝 Resident Complaints
 
-* Submit Complaints
-* Upload Complaint Photos
-* Track Complaint Status
+- Submit Complaints
+- Upload Complaint Photos
+- Report Injured Animals
+- Report Aggressive Animals
+- Report Animal Abuse
+- Track Complaint Status
+- Assign Complaint to Teams
 
 ## 🚑 Rescue & Pickup Requests
 
