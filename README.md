@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Resident Complaints" src="https://github.com/user-attachments/assets/e9b53511-107f-4cd9-bed7-077f792ab7b9" /># 🐾 PawCare
+  🐾 PawCare
 
 ## Animal Care & Welfare Management Platform
 
