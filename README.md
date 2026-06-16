@@ -8,7 +8,7 @@ June 2026
 
 ### By
 
-Afrah Mohammed
+#### Afrah Mohammed [Instagram](https://www.instagram.com/_afrah_mohammed/)| [GitHub](https://github.com/Afrah) | [LinkedIn](<[www.linkedin.com/in/aboodisa](https://www.linkedin.com/in/afrah-mohd-6ab257276/)>)
 
 ---
 
