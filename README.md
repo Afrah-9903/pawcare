@@ -1,4 +1,4 @@
-# 🐾 PawCare
+<img width="1536" height="1024" alt="Resident Complaints" src="https://github.com/user-attachments/assets/e9b53511-107f-4cd9-bed7-077f792ab7b9" /># 🐾 PawCare
 
 ## Animal Care & Welfare Management Platform
 
@@ -165,45 +165,55 @@ Residents can report:
 
 ## Login Page
 
-(Add Image)
+ <img width="1536" height="1024" alt="Login" src="https://github.com/user-attachments/assets/8669f132-2bd8-49fa-8df8-486cac90c38b" />
+
 
 ## Dashboard
 
-(Add Image)
+ <img width="1536" height="1024" alt="DashBoard" src="https://github.com/user-attachments/assets/48ba2cff-9b9d-4b72-b54f-25d68f6a8424" />
+
 
 ## Animal Registry
 
-(Add Image)
+ <img width="1536" height="1024" alt="Animal Registry " src="https://github.com/user-attachments/assets/c4cde482-1d5b-40ec-99bc-718d96b4c402" />
+
 
 ## Animal Profile
 
-(Add Image)
+ <img width="1536" height="1024" alt="Animal Profile" src="https://github.com/user-attachments/assets/b1b03d59-ce6e-4fc4-a439-52508892106c" />
+
 
 ## Resident Complaints
 
-(Add Image)
+ <img width="1536" height="1024" alt="Resident Complaints" src="https://github.com/user-attachments/assets/49377211-e37a-4bc8-89d4-97165f64c949" />
+
 
 ## Rescue Requests
 
-(Add Image)
+ <img width="1536" height="1024" alt="Rescue Requests " src="https://github.com/user-attachments/assets/a1c65a3c-924e-468d-a270-cdd56380e1fa" />
+
 
 ## Volunteer Dashboard
 
-(Add Image)
+ <img width="1536" height="1024" alt="Volunteer Dashboard" src="https://github.com/user-attachments/assets/14346acd-91c9-4935-b0ff-4c2f4d3df18f" />
+
 
 ## Shelter Dashboard
 
-(Add Image)
+ <img width="1536" height="1024" alt=" Shelter Dashboard" src="https://github.com/user-attachments/assets/1a8af77a-ee8e-4c31-b22b-f4159662fbf0" />
+
 
 ## Admin Dashboard
 
-(Add Image)
+ <img width="1536" height="1024" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/8953b2a9-71a9-49ea-a4ed-7dd310696aad" />
+
 
 ---
 
 # 🗺️ ERD Diagram
 
-(Add ERD Image)
+ <img width="1536" height="1024" alt="PaWCareERD" src="https://github.com/user-attachments/assets/0edad3e1-d94c-47e1-901d-5f207ef20886" />
+
 
 ---
 
@@ -307,21 +317,103 @@ This project is being built to practice:
 
 # 🔮 Future Enhancements
 
-### Phase 2
+## Phase 2 – Smart Operations
 
-* Interactive Maps
-* Animal Location Tracking
-* Email Notifications
-* SMS Notifications
+### 🗺️ Interactive Maps
 
-### Phase 3
+* View animal locations on a live map
+* Display complaint hotspots
+* Track rescue request locations
+* Visualize shelter locations
 
-* Mobile Application
-* QR Code Animal Identification
-* AI Analytics
-* Multi-City Support
+### 📍 Animal Location Tracking
+
+* Last known animal location
+* Rescue history timeline
+* Area-based animal monitoring
+* Animal movement records
+
+### 📧 Email Notifications
+
+* Complaint status updates
+* Rescue assignment notifications
+* Vaccination reminders
+* Shelter capacity alerts
+
+### 📱 SMS Notifications
+
+* Rescue team alerts
+* Emergency complaint notifications
+* Vaccination reminders
+* Volunteer task assignments
 
 ---
+
+## Phase 3 – Advanced Features
+
+### 📲 Mobile Application
+
+* Volunteer mobile app
+* Resident complaint submission
+* Rescue team mobile dashboard
+* Real-time updates in the field
+
+### 🏷️ QR Code Animal Identification
+
+* Unique QR code for every animal
+* Scan to view animal history
+* Vaccination records
+* Sterilization records
+* Rescue and treatment history
+
+### 🤖 AI Analytics
+
+* Complaint trend analysis
+* High-risk area prediction
+* Shelter occupancy forecasting
+* Vaccination campaign insights
+* Volunteer performance analytics
+
+### 🌍 Multi-City Support
+
+* Support multiple municipalities
+* City-level dashboards
+* Regional reporting
+* Cross-city statistics
+* Centralized administration
+
+---
+
+## Phase 4 – Enterprise Features
+
+### 📊 Advanced Reporting
+
+* Monthly welfare reports
+* Vaccination campaign reports
+* Rescue operation reports
+* Volunteer contribution reports
+
+### 🏥 Veterinary Management
+
+* Treatment records
+* Medical history tracking
+* Surgery records
+* Follow-up schedules
+
+### 💰 Donation Management
+
+* Online donations
+* Sponsorship programs
+* Campaign fundraising
+* Financial reporting
+
+### 🔗 Government Integration
+
+* Municipality portals
+* Public reporting dashboards
+* Open data exports
+* Welfare compliance tracking
+
 
 ### Progress
  <a href = "https://trello.com/b/wLGJGinO/pawcare"> Trello </a>
