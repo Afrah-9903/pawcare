@@ -265,7 +265,7 @@ This project is designed to practice:
 
 Afrah Mohammed
 
-Software Engineering Student | Full Stack Developer
+ 
 
  
 
