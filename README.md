@@ -1,26 +1,92 @@
 # 🐾 PawCare
 
-## Date
+## Animal Care & Welfare Management Platform
+
+### Date
 
 June 2026
 
-## By
+### By
 
 Afrah Mohammed
 
-#### Afrah Mohammed [Instagram](https://www.instagram.com/_afrah_mohammed/)| [GitHub](https://github.com/Afrah) | [LinkedIn](<[www.linkedin.com/in/aboodisa](https://www.linkedin.com/in/afrah-mohd-6ab257276/)>)
+---
+
+# 📖 Project Overview
+
+PawCare is a full-stack Animal Care & Welfare Management Platform designed to help municipalities, NGOs, animal welfare organizations, veterinarians, shelters, and volunteers manage animal welfare activities in one centralized system.
+
+The platform enables organizations to track animal registrations, vaccinations, sterilization programs, citizen complaints, rescue requests, shelter capacity, volunteer activities, and task progress.
+
+Built to practice modern full-stack development using React and Supabase.
 
 ---
 
-# Animal Care Management Platform
+# 🎯 MVP Features
 
-PawCare is a full-stack web application designed to help pet owners manage their pets, schedule care services, and keep track of appointments.
+## 🔐 Authentication
 
-The platform allows users to create pet profiles, upload pet images, book appointments, and manage pet records through a simple dashboard.
+* User Registration
+* User Login
+* User Logout
+* Protected Routes
+* Role-Based Access
+
+## 🐕 Animal Registry
+
+* Register Animals
+* View Animal Records
+* Edit Animal Information
+* Upload Animal Photos
+* Track Animal Status
+
+## 💉 Vaccination Tracking
+
+* Record Vaccinations
+* View Vaccination History
+* Vaccination Status Dashboard
+
+## 🏥 Sterilization Tracking
+
+* Record Sterilization Procedures
+* View Sterilization History
+* Monitor Sterilization Programs
+
+## 📢 Citizen Complaints
+
+* Submit Complaints
+* Upload Complaint Photos
+* Track Complaint Status
+
+## 🚑 Rescue & Pickup Requests
+
+* Create Pickup Requests
+* Assign Volunteers
+* Track Request Status
+
+## 🏠 Shelter Management
+
+* Monitor Shelter Capacity
+* Track Occupancy Levels
+* Shelter Statistics
+
+## 🤝 Volunteer Dashboard
+
+* View Assigned Tasks
+* Update Task Progress
+* Activity Tracking
+
+## 📊 Admin Dashboard
+
+* Animal Statistics
+* Vaccination Reports
+* Complaint Analytics
+* User Management
+* Volunteer Performance
 
 ---
 
-# Technologies Used
+# 🛠 Technologies Used
 
 ## Frontend
 
@@ -40,45 +106,49 @@ The platform allows users to create pet profiles, upload pet images, book appoin
 
 ---
 
-# MVP Features
+# 🗄 Database Design
 
-### Authentication
+### profiles
 
-* Register
-* Login
-* Logout
-* Protected Routes
+Stores user accounts and roles.
 
-### Pet Management
+### animals
 
-* Add Pet
-* View Pets
-* Edit Pet
-* Delete Pet
-* Upload Pet Images
+Stores animal information and welfare records.
 
-### Services
+### vaccinations
 
-* View Services
-* Service Details
+Stores vaccination history.
 
-### Appointments
+### sterilizations
 
-* Create Appointment
-* View Appointments
-* Cancel Appointment
+Stores sterilization records.
 
-### Admin Dashboard
+### complaints
 
-* Manage Pets
-* Manage Services
-* Manage Appointments
+Stores citizen complaints.
+
+### pickup_requests
+
+Stores rescue and pickup requests.
+
+### shelters
+
+Stores shelter information and capacity.
+
+### volunteers
+
+Stores volunteer details.
+
+### tasks
+
+Stores assigned activities and progress.
 
 ---
 
-# Wireframes
+# 🎨 Wireframes
 
-## Home Page
+## Login Page
 
 (Add image later)
 
@@ -86,40 +156,31 @@ The platform allows users to create pet profiles, upload pet images, book appoin
 
 (Add image later)
 
-## Appointments Page
+## Animal Registry
+
+(Add image later)
+
+## Complaint Management
+
+(Add image later)
+
+## Shelter Dashboard
+
+(Add image later)
+
+## Volunteer Dashboard
 
 (Add image later)
 
 ---
 
-# ERD Diagram
+# 🗺 ERD Diagram
 
- <img width="1536" height="1024" alt="pawCare" src="https://github.com/user-attachments/assets/6b4a607b-97ea-4638-ac9f-f66e42b23e12" />
-
-
----
-
-# Database Tables
-
-### profiles
-
-Stores user information.
-
-### pets
-
-Stores pet information.
-
-### services
-
-Stores animal care services.
-
-### appointments
-
-Stores booking information.
+(Add ERD image here)
 
 ---
 
-# Project Structure
+# 📂 Planned Folder Structure
 
 ```bash
 src/
@@ -136,69 +197,75 @@ src/
 
 ---
 
-# Learning Objectives
+# 🎓 Learning Objectives
 
-This project was built to practice:
+This project is designed to practice:
 
 * React Fundamentals
 * React Router
 * Supabase Authentication
-* PostgreSQL Relationships
+* PostgreSQL Database Design
+* Table Relationships
 * CRUD Operations
 * File Uploads
+* Role-Based Access Control
 * Dashboard Development
 * Deployment
 
 ---
 
-# Future Updates
+# 🚀 Development Roadmap
 
-### Phase 2
+## Phase 1
 
-* Notifications
-* Payment Integration
-* Pet Vaccination Tracking
-* Staff Dashboard
+* Project Setup
+* Supabase Setup
+* Authentication
+* Database Design
 
-### Phase 3
+## Phase 2
+
+* Animal Registry
+* Vaccination Tracking
+* Sterilization Tracking
+
+## Phase 3
+
+* Complaints Management
+* Rescue Requests
+* Shelter Dashboard
+
+## Phase 4
+
+* Volunteer Dashboard
+* Admin Dashboard
+* Analytics
+
+## Phase 5
+
+* Testing
+* Deployment
+* Documentation
+
+---
+
+# 🔮 Future Enhancements
 
 * Mobile Application
-* Loyalty Program
-* AI Pet Care Suggestions
+* Interactive Maps
+* GPS Animal Tracking
+* SMS & Email Notifications
+* AI-Based Reporting
+* Vaccination Campaign Planning
+* Multi-City Support
 
 ---
 
-# Project Roadmap
+# 👩‍💻 Author
 
-### Phase 1
+Afrah Mohammed
 
-* Authentication
-* Pet CRUD
-* Image Uploads
-
-### Phase 2
-
-* Services Module
-* Appointment Booking
-
-### Phase 3
-
-* Admin Dashboard
-* Deployment
-
----
-# Progress
-
-https://trello.com/b/wLGJGinO/pawcare
-
-# Credits
-
-* Supabase
-* React
-* Vercel
-* Heroicons
-
----
+Software Engineering Student | Full Stack Developer
 
  
 
