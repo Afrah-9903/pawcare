@@ -1,76 +1,104 @@
 # 🐾 PawCare
 
-A Full Stack Animal Care Management Platform built with **React**, **Supabase Auth**, **Supabase PostgreSQL**, and **Supabase Storage**.
+## Date
+
+June 2026
+
+## By
+
+Afrah Mohammed
+
+GitHub | LinkedIn
 
 ---
 
-## 📖 Project Overview
+# Animal Care Management Platform
 
-PawCare is a web application that helps pet owners manage their pets, book animal care services, and track appointments.
+PawCare is a full-stack web application designed to help pet owners manage their pets, schedule care services, and keep track of appointments.
 
-The project is designed to practice full-stack development concepts including authentication, database management, file uploads, CRUD operations, role-based access, and deployment.
+The platform allows users to create pet profiles, upload pet images, book appointments, and manage pet records through a simple dashboard.
 
 ---
 
-## 🎯 MVP Features
+# Technologies Used
+
+## Frontend
+
+* React
+* React Router
+* CSS
+
+## Backend Services
+
+* Supabase Auth
+* Supabase PostgreSQL
+* Supabase Storage
+
+## Deployment
+
+* Vercel
+
+---
+
+# MVP Features
 
 ### Authentication
 
-* User Registration
-* User Login
-* User Logout
+* Register
+* Login
+* Logout
 * Protected Routes
 
 ### Pet Management
 
 * Add Pet
 * View Pets
-* Edit Pet Information
+* Edit Pet
 * Delete Pet
 * Upload Pet Images
 
 ### Services
 
-* View Available Services
+* View Services
 * Service Details
 
 ### Appointments
 
-* Book Appointment
+* Create Appointment
 * View Appointments
-* Update Appointment Status
 * Cancel Appointment
 
 ### Admin Dashboard
 
-* View All Pets
-* View All Appointments
+* Manage Pets
 * Manage Services
-* Manage Users
+* Manage Appointments
 
 ---
 
-## 🛠 Tech Stack
+# Wireframes
 
-### Frontend
+## Home Page
 
-* React
-* React Router
-* CSS
+(Add image later)
 
-### Backend Services
+## Dashboard
 
-* Supabase Auth
-* Supabase PostgreSQL
-* Supabase Storage
+(Add image later)
 
-### Deployment
+## Appointments Page
 
-* Vercel
+(Add image later)
 
 ---
 
-## 🗄 Database Tables
+# ERD Diagram
+
+(Add ERD image later)
+
+---
+
+# Database Tables
 
 ### profiles
 
@@ -82,7 +110,7 @@ Stores pet information.
 
 ### services
 
-Stores available care services.
+Stores animal care services.
 
 ### appointments
 
@@ -90,7 +118,7 @@ Stores booking information.
 
 ---
 
-## 📂 Planned Folder Structure
+# Project Structure
 
 ```bash
 src/
@@ -107,50 +135,70 @@ src/
 
 ---
 
-## 🚀 Learning Goals
+# Learning Objectives
+
+This project was built to practice:
 
 * React Fundamentals
 * React Router
-* Authentication
+* Supabase Authentication
 * PostgreSQL Relationships
 * CRUD Operations
 * File Uploads
 * Dashboard Development
-* Role-Based Access Control
 * Deployment
 
 ---
 
-## 📅 Development Roadmap
-
-### Phase 1
-
-* Setup GitHub Repository
-* Create README
-* Create ERD
-* Setup Supabase
+# Future Updates
 
 ### Phase 2
 
-* Authentication System
-* Pet CRUD
-* Image Uploads
+* Notifications
+* Payment Integration
+* Pet Vaccination Tracking
+* Staff Dashboard
 
 ### Phase 3
 
-* Services Module
-* Appointment Booking System
+* Mobile Application
+* Loyalty Program
+* AI Pet Care Suggestions
 
-### Phase 4
+---
+
+# Project Roadmap
+
+### Phase 1
+
+* Authentication
+* Pet CRUD
+* Image Uploads
+
+### Phase 2
+
+* Services Module
+* Appointment Booking
+
+### Phase 3
 
 * Admin Dashboard
-* Testing
 * Deployment
 
 ---
 
-## 👩‍💻 Author
+# Credits
+
+* Supabase
+* React
+* Vercel
+* Heroicons
+
+---
+
+# Author
 
 Afrah Mohammed
 
-Software Engineering Student | Full Stack Developer
+Software Engineering Student
+
